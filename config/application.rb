@@ -1,5 +1,8 @@
 require_relative 'boot'
 
+# config/application.rb
+config.assets.initialize_on_precompile = false
+
 require "rails"
 # Pick the frameworks you want:
 require "active_model/railtie"
