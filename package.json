@@ -1,5 +1,5 @@
 {
   "name": "myfavouritebooks",
-  "private": true,
+  "private": false,
   "dependencies": {}
 }
